@@ -1,0 +1,61 @@
+/* LG Smart Fonts */
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-Bold.ttf") format("ttf"),
+       url("../fonts/LGSmart-Bold.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-RegularItalic.ttf") format("ttf"),
+       url("../fonts/LGSmart-RegularItalic.ttf") format("ttf");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-BoldItalic.ttf") format("ttf"),
+       url("../fonts/LGSmart-BoldItalic.ttf") format("ttf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-Light.ttf") format("ttf"),
+       url("../fonts/LGSmart-Light.ttf") format("ttf");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-SemiBold.ttf") format("ttf"),
+       url("../fonts/LGSmart-SemiBold.ttf") format("ttf");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LGSmart";
+  src: url("../fonts/LGSmart-Regular.ttf") format("ttf"),
+       url("../fonts/LGSmart-Regular.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* Optional: set LG Smart as default font */
+/* body {
+  font-family: "LGSmart", sans-serif;
+} */
